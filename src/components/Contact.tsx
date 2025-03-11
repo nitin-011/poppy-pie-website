@@ -44,14 +44,14 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5" />
-                <a href="mailto:hello@poppypie.com" className="hover:text-gray-600 transition-colors">
-                  hello@poppypie.com
+                <a href="mailto:contact@thepoppypie.com" className="hover:text-gray-600 transition-colors">
+                  contact@thepoppypie.com
                 </a>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5" />
-                <a href="tel:+1234567890" className="hover:text-gray-600 transition-colors">
-                  +1 (234) 567-890
+                <a href="tel:+91 7696834279" className="hover:text-gray-600 transition-colors">
+                  +91 7697834279
                 </a>
               </div>
             </div>

@@ -5,18 +5,18 @@ import { ArrowLeft, ArrowRight, Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Sarah Johnson",
-    role: "CEO, TechStart",
+    name: "Nishant Chattwal",
+    role: "CEO, Kahba",
     content: "Poppy Pie transformed our brand identity completely. Their strategic approach and creativity exceeded our expectations."
   },
   {
-    name: "Michael Chen",
-    role: "Marketing Director, GrowthCo",
+    name: "Vivek Anand",
+    role: "Marketing Director, Business Enablers",
     content: "Working with Poppy Pie was a game-changer. They understood our vision perfectly and delivered beyond our expectations."
   },
   {
-    name: "Emma Davis",
-    role: "Founder, Innovate Labs",
+    name: "Gajendra Shrivastva",
+    role: "Founder, Metafied",
     content: "The team at Poppy Pie brought fresh perspective and innovation to our rebranding project. Couldn't be happier with the results."
   }
 ];
